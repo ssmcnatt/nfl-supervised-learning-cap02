@@ -1,0 +1,30 @@
+* The presenter delivered the material in a clear and structured manner.
+  * Score (out of 5): 
+  * Comments:
+* The presenter maintained my interest during the entire presentation.
+  * Score (out of 5): 
+  * Comments:
+* The presenter answered questions effectively.
+  * Score (out of 5): 
+  * Comments:
+* The presenter clearly presented the conclusion and recommendations of the research study.
+  * Score (out of 5): 
+  * Comments:
+* The presentation was concise and informative.
+  * Score (out of 5): 
+  * Comments:
+* The presentation provided sufficient details about methods to understand how the study was conducted, but wasn't too detailed.
+  * Score (out of 5): 
+  * Comments: 
+* The presentation contained practical examples and useful techniques that applied to current work.
+  * Score (out of 5): 
+  * Comments:
+* The visual aids were effective.
+  * Score (out of 5): 
+  * Comments:
+
+* intro (business/data)
+* model building/features engineering
+* model performance (dont stick with model.score; if classification show and interpret a confusion matrix; if regression, show and interpret a score like MAE or MAPE)
+* feature importance (if a tree based model, comment on model.feature_importances_; if a model with coefficients, comment on model.coef_; if knn/non-linear svm, try to do some follow up analysis to tell the audience what the most predictive features are)
+* conclusions (limitations? next steps?)
